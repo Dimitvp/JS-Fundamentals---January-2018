@@ -10,4 +10,3 @@ function calcNextDay(year, month, day)  {
   let output = calcNextDay(2016, 9, 30)
 
 console.log(output)
-  
